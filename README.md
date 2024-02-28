@@ -1,2 +1,3 @@
-# e-shop_prod_analysis
+# E-shop products analysis
+
 
